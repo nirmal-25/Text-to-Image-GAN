@@ -4,6 +4,13 @@
 ![Experimental Results](images/results.png)
 
 ![Synthesized images](images/images.png)
+
+### Our final weight files for trained models 
+- [DF-GAN]()
+- [ManiGAN]()
+- [Lightweight ManiGAN]()
+Download and save it to `models/` in order to get results
+
 ### References
 [1] Deep Fusion GAN - [DF-GAN](https://arxiv.org/abs/2008.05865)
 
