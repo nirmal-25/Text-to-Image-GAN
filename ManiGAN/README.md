@@ -32,7 +32,3 @@ python main.py --cfg cfg/eval_coco.yml --gpu 5
 ### Evaluation
 
 - To generate images for all captions in the testing dataset, change B_VALIDATION to `True` in the eval_*.yml.
-
-#### Our final model weight file for CUB
-- [Main module for bird](https://drive.google.com/file/d/1X8GU4tXP-lc_YVqR1Rq9Jx6SIkQlKdje/view?usp=sharing). Download and save it to `models/`
-
