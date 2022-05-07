@@ -6,9 +6,9 @@
 ![Synthesized images](images/images.png)
 
 ### Our final weight files for trained models 
-- [DF-GAN]()
-- [ManiGAN]()
-- [Lightweight ManiGAN]()
+- [DF-GAN](https://drive.google.com/file/d/17iSeUJZVGyLwqkwKOCLtKOH76fNjRf5P/view?usp=sharing)
+- [ManiGAN](https://drive.google.com/file/d/1qMNtmqAqFt2aNzWOY2CyK_MRtcjNCDvS/view?usp=sharing)
+- [Lightweight ManiGAN](https://drive.google.com/file/d/1QhPx2GZmIUU17Nc6NY8e9jEATcM9ow1r/view?usp=sharing)
 Download and save it to `models/` in order to get results
 
 ### References
