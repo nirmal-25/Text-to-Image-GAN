@@ -41,7 +41,6 @@ python main.py --cfg cfg/eval_coco.yml --gpu 5
 
 - To generate images for all captions in the testing dataset, change B_VALIDATION to `True` in the `eval_*.yml`. 
 
-#### Our final Lightweight maniGAN weight file 
-- [Bird](). Download and save it to `models/`
+
 
 
