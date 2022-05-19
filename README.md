@@ -24,8 +24,8 @@ GAN-based text-to-image generation models for the CUB and COCO datasets are expe
 Download and save it to `models/` in order to get results
 
 ### References
-[1] Deep Fusion GAN - [DF-GAN](https://arxiv.org/abs/2008.05865)
-[2] Text-Guided Image Manipulation - [ManiGAN](https://arxiv.org/abs/1912.06203)
-[3] Lightweight Architecture for Text-Guided Image Manipulation - [Lightweight ManiGAN](https://arxiv.org/abs/2010.12136)
-[4] PyTorch Implementation for Inception Score (IS) - [IS](https://github.com/sbarratt/inception-score-pytorch) 
-[5] PyTorch Implementation for Fréchet Inception Distance (FID) - [FID](https://github.com/mseitzer/pytorch-fid) 
+[1] Deep Fusion GAN - [DF-GAN](https://arxiv.org/abs/2008.05865) <br />
+[2] Text-Guided Image Manipulation - [ManiGAN](https://arxiv.org/abs/1912.06203)<br />
+[3] Lightweight Architecture for Text-Guided Image Manipulation - [Lightweight ManiGAN](https://arxiv.org/abs/2010.12136)<br />
+[4] PyTorch Implementation for Inception Score (IS) - [IS](https://github.com/sbarratt/inception-score-pytorch) <br />
+[5] PyTorch Implementation for Fréchet Inception Distance (FID) - [FID](https://github.com/mseitzer/pytorch-fid) <br />
