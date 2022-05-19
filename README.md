@@ -1,5 +1,13 @@
 # Text-to-Image-GAN
 
+In this project, we evaluate a few popular GAN-based text-to-image generation models for the CUB and COCO datasets, and provide a detailed analysis of the generative models using evaluation metrics such as the Inception Score (IS) and the Fr´echet Inception Distance (FID) to compare the output images
+across different architectures. Our experiments reveal that
+the lightweight architecture for text-guided image manipulation
+achieves the best FID of 10.2 for the CUB dataset
+also while being more efficient than other GAN-based textto-
+image models.
+
+
 ### Results
 *Experimental Results*
 
