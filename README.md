@@ -4,13 +4,13 @@ GAN-based text-to-image generation models for the CUB and COCO datasets are expe
 
 
 ### Results
-*Experimental Results*
-
-<img src="images/results.png" width="400">
-
 *Synthesized images*
 
 <img src="images/images.png" width="400">
+
+*Experimental Results*
+
+<img src="images/results.png" width="400">
 
 ##### Our final weight files for trained models 
 - [DF-GAN](https://drive.google.com/file/d/17iSeUJZVGyLwqkwKOCLtKOH76fNjRf5P/view?usp=sharing)
