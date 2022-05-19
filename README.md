@@ -1,6 +1,6 @@
 # Text-to-Image-GAN
 
-GAN-based text-to-image generation models for the CUB and COCO datasets are experimented, and evaluated using the Inception Score (IS) and the Fréchet Inception Distance (FID) to compare the output images across different architectures. 
+GAN-based text-to-image generation models for the CUB and COCO datasets are experimented, and evaluated using the Inception Score (IS) and the Fréchet Inception Distance (FID) to compare output images across different architectures. 
 
 
 ### Results
