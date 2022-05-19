@@ -5,8 +5,9 @@
 
 <img src="images/results.png" width="400">
 
-![Synthesized images](images/images.png)
-<img src="https://user-images.githubusercontent.com/51696913/169203052-f6f3d11e-cda6-4c4b-99f5-031b376b4156.png" width="400">
+*Synthesized images*
+
+<img src="images/images.png" width="400">
 
 ### Our final weight files for trained models 
 - [DF-GAN](https://drive.google.com/file/d/17iSeUJZVGyLwqkwKOCLtKOH76fNjRf5P/view?usp=sharing)
