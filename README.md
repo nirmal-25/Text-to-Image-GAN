@@ -3,6 +3,7 @@
 GAN-based text-to-image generation models for the CUB and COCO datasets are experimented, and evaluated using the Inception Score (IS) and the Fréchet Inception Distance (FID) to compare output images across different architectures. The models are implemented in PyTorch 1.11.0. Save the datasets in ```data``` and follow the steps as given in each folder to replicate our results.
 
 ##### Experimental setup
+
 - Learning rate: 0.0002 for ManiGAN, Lightweight ManiGAN and 0.0001 for DF-GAN
 - Optimizer: Adam
 - Output image size: 256x256
